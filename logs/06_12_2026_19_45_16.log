@@ -1,0 +1,7 @@
+[2026-06-12 19:45:16,156] 32 root - INFO - Entred the data ingestion method
+[2026-06-12 19:45:16,163] 38 root - INFO - Dataset read as pandas dataframe
+[2026-06-12 19:45:16,170] 53 root - INFO - Raw dataset saved in artifacts folder
+[2026-06-12 19:45:16,173] 61 root - INFO - Train test split completed
+[2026-06-12 19:45:16,180] 75 root - INFO - Ingestion of data completed
+[2026-06-12 19:45:16,211] 53 root - INFO - Splitting training and test input data
+[2026-06-12 19:45:27,254] 144 root - INFO - Best Model Found: Lasso

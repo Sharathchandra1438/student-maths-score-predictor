@@ -1,0 +1,14 @@
+setup.py
+src/__init__.py
+src/data_ingestion.py
+src/data_transformation.py
+src/exception.py
+src/logger.py
+src/model_trainer.py
+src/predict_pipeline.py
+src/utils.py
+student_performance_project.egg-info/PKG-INFO
+student_performance_project.egg-info/SOURCES.txt
+student_performance_project.egg-info/dependency_links.txt
+student_performance_project.egg-info/requires.txt
+student_performance_project.egg-info/top_level.txt
